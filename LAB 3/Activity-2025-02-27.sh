@@ -9,3 +9,4 @@ disown
 
 firefox https://github.com &
 disown
+
